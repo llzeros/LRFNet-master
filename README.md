@@ -1,9 +1,3 @@
-<style>
-  .highlight {
-    background-color: yellow;
-  }
-</style>
-
 ## LRFNet
 
 Code and result about LRFNet (BMVC 2023)
