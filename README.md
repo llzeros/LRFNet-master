@@ -10,10 +10,9 @@ Label-guided Real-time Fusion Network for RGB-T Semantic Segmentation
 Python 3.9.13 Pytorch 1.12.0, Cuda 11.3, TensorboardX 2.0, opencv-python
 
 ## Dataset
-The datasets can be found in 
+The datasets can be found in [dataset](https://pan.baidu.com/s/1FVar8L6ihvQfx7xNcNumKw) 提取码: 6wne
 ## Result
-
-Pretrained models and Predict maps can be found in [baidu](https://pan.baidu.com/s/15HrIL4fyxIafFkQQ5B6hPQ) 提取码: bear
+Pretrained models and Predict maps can be found in [checkpoint](https://pan.baidu.com/s/15HrIL4fyxIafFkQQ5B6hPQ) 提取码: bear
 
 ## Testing
 Download the checkpoints and save in ./checkpoint/
