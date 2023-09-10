@@ -1,3 +1,9 @@
+<style>
+  .highlight {
+    background-color: yellow;
+  }
+</style>
+
 ## LRFNet
 
 Code and result about LRFNet (BMVC 2023)
@@ -26,8 +32,4 @@ The implement of this project is based on the code of ‘RTFNet: RGB-Thermal Fus
 
 ## Contact
 Further discussion: linzr9@mail2.sysu.edu.cn or linbaihong111@126.com.
-<style>
-  .highlight {
-    background-color: yellow;
-  }
-</style>
+
