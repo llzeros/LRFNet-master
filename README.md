@@ -18,7 +18,7 @@ Pretrained models and Predict maps can be found in [baidu](https://pan.baidu.com
 ## Testing
 Download the checkpoints and save in ./checkpoint/
 
-<mark>python run_demo_MFNet.py --data_dir [your MFdataset data_dir]<mark>
+<span class="highlight">python run_demo_MFNet.py --data_dir [your MFdataset data_dir]</span>
 
 <mark>python run_demo_PST.py --data_dir [your PST900 data_dir]<mark>
 ## Acknowledgement
@@ -26,3 +26,8 @@ The implement of this project is based on the code of ‘RTFNet: RGB-Thermal Fus
 
 ## Contact
 Further discussion: linzr9@mail2.sysu.edu.cn or linbaihong111@126.com.
+<style>
+  .highlight {
+    background-color: yellow;
+  }
+</style>
